@@ -1,7 +1,7 @@
 --Часть 1. Создание структуры. Определить самостоятельно типы данных для каждого поля(колонки). Самостоятельно определить что является primary key и foreign key.
 
 CREATE DATABASE university;
-CREATE SCHEMA IF NOT EXISTS schemaspec;
+--CREATE SCHEMA IF NOT EXISTS schemaspec;
 
 
 --1. Создать таблицу с факультетами: id, имя факультета, стоимость обучения
